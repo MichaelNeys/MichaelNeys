@@ -29,7 +29,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs?username=MichaelNeys&show_icons=true&count_private=true&title_color=ffffff&text_color=ffffff&icon_color=0891b2&bg_color=181824&hide_border=true)
 ![](https://github-readme-stats.vercel.app/api?username=MichaelNeys&show_icons=true&count_private=true&title_color=ffffff&text_color=ffffff&icon_color=0891b2&bg_color=181824&hide_border=true)
 
-## 🎓 Certificats
+## 🎓 Certificates
 <details>
 <summary><a href="https://www.musixmatch.com/"/>Musixmatch</a></summary>
   
