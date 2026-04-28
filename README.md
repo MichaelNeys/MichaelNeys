@@ -1,7 +1,7 @@
 ## 👋 Hi there, I'm Michael Neys
 
 - 🌱 I’m currently studying [computer science](https://wikipedia.org/wiki/Computer_science) at [Hasselt University](https://www.uhasselt.be/)
-- 📫 Reach me at: info@neys.be
+- 📫 Reach me at: contact@neys.be
 - ⚡ Hobbies:
     - 🖥️ Homelabbing
     - 📸 [Photography](https://www.instagram.com/michaelneys.photography/)
