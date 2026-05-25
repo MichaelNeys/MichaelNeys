@@ -7,8 +7,11 @@
     - 📸 [Photography](https://www.instagram.com/michaelneys.photography/)
 
 ## 📊 GitHub Stats
+
+<div align="center">
 ![](https://streak-stats.demolab.com/?user=MichaelNeys&theme=dark&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff)
 ![](https://gh-stats.skiddph.com/api/top-langs?username=MichaelNeys&layout=compact&langs_count=10&hide=html,css&exclude_repo=old-project&theme=tokyonight)
+</div>
 
 ## 🎓 Certificates
 <details>
